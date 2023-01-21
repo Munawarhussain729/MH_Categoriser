@@ -1,0 +1,14 @@
+.card{
+    height: 400px;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+.ccard-image{
+    height: 250px;
+    overflow: hidden;
+}
+
+.nav-bar{
+    background: black !important;
+    color: rgb(11, 231, 11) !important;
+}
